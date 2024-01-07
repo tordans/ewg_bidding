@@ -22,6 +22,10 @@ Click on the project link relating to your proposal to see more details.
 
 * [OpenStreetMap-Website: Refactor Notes](/projects/openstreetmap-website-notes-refactoring)
 
-### In Development 
+### In Development
+
+-
+
+### Completed
 
 * [Ability to mute other users](/projects/ability-to-mute-other-users)
